@@ -1,2 +1,25 @@
-# Network-Automation-Python
-Python scripts for enterprise network automation and monitoring
+# Network Automation with Python
+
+Enterprise network automation scripts using Python for Cisco, Palo Alto, Fortinet, and cloud environments.
+
+## Topics Covered
+- Interface Monitoring
+- Configuration Backup
+- IP Reachability Testing
+- VLAN Automation
+- Network Health Checks
+- SSH Automation
+- Log Collection
+- Device Inventory
+
+## Technologies
+- Python
+- Netmiko
+- Paramiko
+- NAPALM
+- REST APIs
+
+## Future Enhancements
+- AI-driven network monitoring
+- Automated compliance checks
+- Multi-vendor automation
